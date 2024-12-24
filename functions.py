@@ -33,3 +33,20 @@ def sh_series(x, n_terms=10):
         term = x**(2*n+1) / math.factorial(2*n+1)
         result += term
     return result
+
+def arctan_series(x, n_terms=10):
+    """
+    Вычисляет арктангенс числа x с использованием ряда Маклорена.
+
+    Аргументы:
+    x (float): Значение, для которого вычисляется арктангенс.
+    n_terms (int): Количество итераций для вычисления ряда.
+
+    Возвращает:
+    float: Значение арктангенса x.
+    """
+    result = 0
+    for n in range(n_terms):
+        term = (-1)**n * x**(2*n+1) / (2*n+1)
+        result += term
+    return result 
