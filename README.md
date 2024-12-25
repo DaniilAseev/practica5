@@ -72,4 +72,4 @@ repository-name/
 
 ## Фото
 
-"C:\Users\Daniil\Desktop\i.webp"
+https://cs10.pikabu.ru/images/big_size_comm/2020-02_4/1582214819141215611.jpg
