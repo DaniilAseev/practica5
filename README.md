@@ -69,3 +69,7 @@ repository-name/
 
 - [Документация Python](https://docs.python.org/3/)
 - [Ряд Тейлора на Wikipedia](https://ru.wikipedia.org/wiki/Ряд_Тейлора)
+
+## Фото
+
+"C:\Users\Daniil\Desktop\i.webp"
